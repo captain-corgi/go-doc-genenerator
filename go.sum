@@ -1,0 +1,17 @@
+github.com/aymerick/raymond v2.0.2+incompatible h1:VEp3GpgdAnv9B2GFyTvqgcKvY+mfKMjPOA3SbKLtnU0=
+github.com/aymerick/raymond v2.0.2+incompatible/go.mod h1:osfaiScAUVup+UC9Nfq76eWqDhXlp+4UYaA8uhTBO6g=
+github.com/legion-zver/go-docx-templates v0.0.0-20190909183856-83e215e5caec h1:tfPHv7majrYFAvtIfW3SirCrI2rhvOHq0JUyLqlNgYU=
+github.com/legion-zver/go-docx-templates v0.0.0-20190909183856-83e215e5caec/go.mod h1:6oFwMrnDkrAdZfKdDbpOIK7VYLD3tsxa7um/Mhhkbpc=
+github.com/phpdave11/gofpdi v1.0.11/go.mod h1:vBmVV0Do6hSBHC8uKUQ71JGW+ZGQq74llk/7bXwjDoI=
+github.com/phpdave11/gofpdi v1.0.13 h1:o61duiW8M9sMlkVXWlvP92sZJtGKENvW3VExs6dZukQ=
+github.com/phpdave11/gofpdi v1.0.13/go.mod h1:vBmVV0Do6hSBHC8uKUQ71JGW+ZGQq74llk/7bXwjDoI=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/qida/go-docx-templates v0.0.0-20190909183856-83e215e5caec h1:RCi5vNMXeQJtlsYPK4PZKRfNRu/JZSK/HDd9WI9u/oE=
+github.com/qida/go-docx-templates v0.0.0-20190909183856-83e215e5caec/go.mod h1:1nGV9+KXLORmAnDzvi9Rp3dXICCY/x7rlxmsPousrMc=
+github.com/signintech/gopdf v0.15.1 h1:8lFdW+UX0oUkrADJv5HmhyhRP9YzMvJzkw7iSNX/35U=
+github.com/signintech/gopdf v0.15.1/go.mod h1:a+E8HlIuBwghPyoo7UaoB5UaL7zklDzmYVIAHoW/Rlw=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
